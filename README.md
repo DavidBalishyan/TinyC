@@ -1,6 +1,6 @@
 # TinyC Language
 
-A simple C-style programming language implemented in Rust with a tree-walk interpreter.
+A simple C-style programming language implemented in Rust with a tree-walk [interpreter](https://en.wikipedia.org/wiki/Interpreter_(computing)).
 
 ## Table of Contents
 
