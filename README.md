@@ -480,7 +480,7 @@ int main() {
 main();
 ```
 
-## Limitations
+## Limitations (most of these will be removed in the future)
 
 - No arrays or pointers
 - No structs or user-defined types
