@@ -31,12 +31,7 @@ cargo run -- <filename>.tc
 ### Example Hello World
 
 ```c
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
-
-main();
+printf("Hello, World!\n");
 ```
 
 ## Language Features
